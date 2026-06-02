@@ -1,6 +1,6 @@
 # Additional Results
 
-This repository contains additional anonymized figures for the rebuttal.
+This repository contains additional anonymized figures for Stage 1.
 
 ## Analysis 1: Concrete-to-abstract clustering
 
